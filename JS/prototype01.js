@@ -21,3 +21,5 @@ console.log(person2.name);
 var obj = new Object();
 obj.name = 'Kevin'
 console.log(obj.name) // Kevin
+
+// null 表示“没有对象”，即该处不应该有值。
